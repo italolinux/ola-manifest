@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: italolino/hello-app:d237a157ac662e46f45b94f9edd87aaa2a3a6d27
+          image: italolino/hello-app:1e8f439f5f7409ae9b61ecdb81427e4aab1faf29
           ports:
             - containerPort: 80
